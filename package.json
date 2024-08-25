@@ -2,6 +2,7 @@
   "name": "flashcards",
   "version": "0.1.0",
   "private": true,
+ 
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,9 +10,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.3.3",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@langchain/openai": "^0.2.7",
+    "@mui/material": "^5.16.7",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.13.0",
+    "langchain": "^0.2.17",
+    "next": "14.2.6",
+    "openai": "^4.56.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.6"
+    "stripe": "^16.8.0"
   },
   "devDependencies": {
     "eslint": "^8",
