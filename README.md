@@ -40,7 +40,7 @@ Before running this application locally, ensure you have the following installed
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ai-learning-platform.git
+   git clone https://github.com/MelissaMak-03/AI_Learning.git
 
 2. **Install Dependencies**
 
